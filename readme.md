@@ -33,7 +33,8 @@ Kaggle : https://www.kaggle.com/code/ishantkukreti/translate/edit
 3. https://www.youtube.com/watch?v=OHZHM8hcyI4&t=374s
 
 ### 1. Approach:
-https://huggingface.co/coqui/XTTS-v1  #do not support hindi
+. https://huggingface.co/coqui/XTTS-v1  #do not support hindi
+. https://huggingface.co/spaces/BilalSardar/Voice-Cloning
 1. dont need a hindi voice model just convert convert Hindi script to Roman script . Use english model to speek. <br><br>
 **Hindi : जैसे, जीवन में मेरे द्वारा सामना किए गए सबसे कठिन विकल्पों में से एक 2008 में था।**<br><br>
 **Roman : jaise, jIvana meM mere dvArA sAmanA kie gae sabase kaThina vikalpoM meM se eka 2008 meM thA|**
