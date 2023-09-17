@@ -22,6 +22,7 @@ used open ai free whisper (an automatic speech recognition model trained on 680,
 Google Translation Api to convert it to Hindi. 
 
 NoteBook: https://drive.google.com/file/d/18fS7tfBgPAGaqWHhuZqHBOSgFRo7uqvb/view?usp=sharing
+Kaggle : https://www.kaggle.com/code/ishantkukreti/translate/edit
 
 <hr>
 
