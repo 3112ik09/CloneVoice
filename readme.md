@@ -39,6 +39,7 @@ Kaggle : https://www.kaggle.com/code/ishantkukreti/translate/edit
 
 
 Used this Model Links: https://github.com/rsxdalv/tts-generation-webui
+Coqui-ai TTS : https://github.com/coqui-ai/TTS
 
 
 Disadvantage: Do not sound good cracky voice 
