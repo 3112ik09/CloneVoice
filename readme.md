@@ -27,6 +27,9 @@ Kaggle : https://www.kaggle.com/code/ishantkukreti/translate/edit
 <hr>
 
 ## 3. Convert Clone:
+##### Using Bark Ai : 
+1. https://github.com/suno-ai/bark
+2. https://colab.research.google.com/drive/1RtSbvMfD-yWkNCXdaMTXWiRc71fsmM9f#scrollTo=b5rDDPxrRAKa
 
 ### 1. Approach:
 1. dont need a hindi voice model just convert convert Hindi script to Roman script . Use english model to speek. <br><br>
