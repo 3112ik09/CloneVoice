@@ -21,13 +21,20 @@ used open ai free whisper (an automatic speech recognition model trained on 680,
 
 Google Translation Api to convert it to Hindi. 
 
-NoteBook: https://colab.research.google.com/drive/1ioPPQXpaYYAdvoc12FejMNTlPO-hpnez#scrollTo=HC02LHEqJ1WT
+NoteBook: https://drive.google.com/file/d/18fS7tfBgPAGaqWHhuZqHBOSgFRo7uqvb/view?usp=sharing
+Kaggle : https://www.kaggle.com/code/ishantkukreti/translate/edit
 
 <hr>
 
 ## 3. Convert Clone:
+##### Using Bark Ai : 
+1. https://github.com/suno-ai/bark
+2. https://colab.research.google.com/drive/1RtSbvMfD-yWkNCXdaMTXWiRc71fsmM9f#scrollTo=b5rDDPxrRAKa
+3. https://www.youtube.com/watch?v=OHZHM8hcyI4&t=374s
 
 ### 1. Approach:
+. https://huggingface.co/coqui/XTTS-v1  #do not support hindi
+. https://huggingface.co/spaces/BilalSardar/Voice-Cloning
 1. dont need a hindi voice model just convert convert Hindi script to Roman script . Use english model to speek. <br><br>
 **Hindi : जैसे, जीवन में मेरे द्वारा सामना किए गए सबसे कठिन विकल्पों में से एक 2008 में था।**<br><br>
 **Roman : jaise, jIvana meM mere dvArA sAmanA kie gae sabase kaThina vikalpoM meM se eka 2008 meM thA|**
@@ -38,6 +45,7 @@ NoteBook: https://colab.research.google.com/drive/1ioPPQXpaYYAdvoc12FejMNTlPO-hp
 
 
 Used this Model Links: https://github.com/rsxdalv/tts-generation-webui
+Coqui-ai TTS : https://github.com/coqui-ai/TTS
 
 
 Disadvantage: Do not sound good cracky voice 
