@@ -32,7 +32,7 @@ Kaggle : https://www.kaggle.com/code/ishantkukreti/translate/edit
 2. https://colab.research.google.com/drive/1RtSbvMfD-yWkNCXdaMTXWiRc71fsmM9f#scrollTo=b5rDDPxrRAKa
 3. https://www.youtube.com/watch?v=OHZHM8hcyI4&t=374s
 
-### 1. Approach:
+### 1. Approach:  (BarkAi + Coqui-Ai)
 . https://huggingface.co/coqui/XTTS-v1  #do not support hindi
 . https://huggingface.co/spaces/BilalSardar/Voice-Cloning
 1. dont need a hindi voice model just convert convert Hindi script to Roman script . Use english model to speek. <br><br>
