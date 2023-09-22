@@ -36,7 +36,7 @@ Result: https://drive.google.com/file/d/1rXM2DGEHaJwZ1Jz1K-2zHHTRsgiBTjEt/view?u
 **Hindi : जैसे, जीवन में मेरे द्वारा सामना किए गए सबसे कठिन विकल्पों में से एक 2008 में था।**<br><br>
 **Roman : jaise, jIvana meM mere dvArA sAmanA kie gae sabase kaThina vikalpoM meM se eka 2008 meM thA|**
 
-2. Bark ai Hindi Speeker https://suno-ai.notion.site/8b8e8749ed514b0cbf3f699013548683?v=bc67cff786b04b50b3ceb756fd05f68c
+2. Bark ai Hindi Speaker 
 3. Train a Bark clone model of elon voice. 
 4. Then convert Roman script to hindi speech .
 
